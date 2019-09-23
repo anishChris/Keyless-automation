@@ -1,0 +1,9 @@
+[
+{
+"KeyLogin": {
+		"Email": "By.id('agent_email)",
+            	"Password": "By.id('agent_password')",
+		"Siginbtn":"//input[@value='Sign in']"
+		}
+}
+]

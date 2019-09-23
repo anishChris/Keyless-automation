@@ -1,0 +1,8 @@
+[
+{ 
+"Email":"By.xpath('//input[@id='agent_email']')",
+"Password":"By.xpath('//input[@id='agent_password']')",
+"Signin":"By.xpath('//input[@value='Sign in']')"
+}
+}
+]
